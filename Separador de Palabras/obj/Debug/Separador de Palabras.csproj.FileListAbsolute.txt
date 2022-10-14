@@ -1,0 +1,8 @@
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\bin\Debug\Separador de Palabras.exe.config
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\bin\Debug\Separador de Palabras.exe
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\bin\Debug\Separador de Palabras.pdb
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\obj\Debug\Separador de Palabras.csproj.AssemblyReference.cache
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\obj\Debug\Separador de Palabras.csproj.SuggestedBindingRedirects.cache
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\obj\Debug\Separador de Palabras.csproj.CoreCompileInputs.cache
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\obj\Debug\Separador de Palabras.exe
+C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\Separador de Palabras\obj\Debug\Separador de Palabras.pdb
