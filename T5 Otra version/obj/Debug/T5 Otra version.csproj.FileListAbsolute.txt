@@ -1,8 +1,0 @@
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\bin\Debug\T5 Otra version.exe.config
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\bin\Debug\T5 Otra version.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\bin\Debug\T5 Otra version.pdb
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\obj\Debug\T5 Otra version.csproj.AssemblyReference.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\obj\Debug\T5 Otra version.csproj.SuggestedBindingRedirects.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\obj\Debug\T5 Otra version.csproj.CoreCompileInputs.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\obj\Debug\T5 Otra version.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\T5 Otra version\obj\Debug\T5 Otra version.pdb
