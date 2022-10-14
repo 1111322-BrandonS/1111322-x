@@ -1,8 +1,0 @@
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\bin\Debug\aaa.exe.config
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\bin\Debug\aaa.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\bin\Debug\aaa.pdb
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\obj\Debug\aaa.csproj.AssemblyReference.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\obj\Debug\aaa.csproj.SuggestedBindingRedirects.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\obj\Debug\aaa.csproj.CoreCompileInputs.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\obj\Debug\aaa.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\aaa\obj\Debug\aaa.pdb
