@@ -1,8 +1,0 @@
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\bin\Debug\L8_BrandonSalazar_1111322.exe.config
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\bin\Debug\L8_BrandonSalazar_1111322.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\bin\Debug\L8_BrandonSalazar_1111322.pdb
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\obj\Debug\L8_BrandonSalazar_1111322.csproj.AssemblyReference.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\obj\Debug\L8_BrandonSalazar_1111322.csproj.SuggestedBindingRedirects.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\obj\Debug\L8_BrandonSalazar_1111322.csproj.CoreCompileInputs.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\obj\Debug\L8_BrandonSalazar_1111322.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_BrandonSalazar_1111322\obj\Debug\L8_BrandonSalazar_1111322.pdb
