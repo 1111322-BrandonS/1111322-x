@@ -1,8 +1,0 @@
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\bin\Debug\L8_1111322_P2.exe.config
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\bin\Debug\L8_1111322_P2.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\bin\Debug\L8_1111322_P2.pdb
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\obj\Debug\L8_1111322_P2.csproj.AssemblyReference.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\obj\Debug\L8_1111322_P2.csproj.SuggestedBindingRedirects.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\obj\Debug\L8_1111322_P2.csproj.CoreCompileInputs.cache
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\obj\Debug\L8_1111322_P2.exe
-C:\Users\besal\OneDrive\Documentos\GitHub\1111322-x\L8_1111322_P2\obj\Debug\L8_1111322_P2.pdb
